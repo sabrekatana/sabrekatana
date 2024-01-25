@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sabrekatana
+- 👀 I’m interested in design and development.
+- 🌱 I’m currently learning React and Three.js.
+- 📫 How to reach me: sabrekatana23@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I have over 60 house plants!
